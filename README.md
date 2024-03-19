@@ -6,6 +6,10 @@ Welcome to my repository!
 
 My name is Polisetty Venkata Pardhasaradhi Naidu, and I'm excited to share with you my solutions.
 
+## Approach
+
+I will be sharing my approach for every question shortly.
+
 ## Solutions
 
 Within this repository, you'll find a collection of my solutions to various questions that are listed below.
